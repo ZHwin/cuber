@@ -1,17 +1,3 @@
-# [魔方](https://huazhechen.gitee.io/cuber)
-
-- 优美而强大的网页魔方
-
-- 地址: <https://huazhechen.gitee.io/cuber>
-
-  <img width="120px" src="https://gitee.com/huazhechen/cuber/raw/master/resource/icon.png"  alt="icon"/>
-
-- 使用过程中发现任何问题, 或者有任何需求和想法, 欢迎联系作者:
-  > 微信: huazhechen
-  >
-  > QQ: 37705123
-  >
-  > email: <37705123@qq.com>
 
 # 功能介绍
 
